@@ -6,6 +6,8 @@ This Excel-based project finance model covers a **200 MWdc / 160 MWac utility-sc
 
 ---
 
+<img width="2863" height="1525" alt="image" src="https://github.com/user-attachments/assets/c655bde8-bd86-4c15-b7b5-d9efe423e9aa" />
+
 ## Project Overview
 
 | Parameter | Assumption |
@@ -127,5 +129,4 @@ The exercise was designed to test the ability to:
 ## About
 
 **Vinci Chan** | BEcon/Finance, The University of Hong Kong  
-Project finance & structured finance | APAC energy transition  
 [GitHub](https://github.com/vincichan1089) · [LinkedIn](https://www.linkedin.com/in/vincichan1089)
