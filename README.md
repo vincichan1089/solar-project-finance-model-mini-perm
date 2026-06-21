@@ -4,8 +4,6 @@
 
 This Excel-based project finance model covers a **200 MWdc / 160 MWac utility-scale solar PV project** in the Australian NEM, featuring a hybrid PPA + merchant revenue structure, DSCR-based debt sizing, mini-perm financing, and a full three-statement financial model.
 
----
-
 <img width="2863" height="1525" alt="image" src="https://github.com/user-attachments/assets/c655bde8-bd86-4c15-b7b5-d9efe423e9aa" />
 
 ## Project Overview
